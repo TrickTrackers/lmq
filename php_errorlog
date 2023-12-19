@@ -1,0 +1,3 @@
+[11-Dec-2023 14:56:54 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/vdpl.digital/public_html/lumiq/v7/sendmailcontact.php on line 5
+[16-Dec-2023 05:59:26 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/vdpl.digital/public_html/lumiq/v9/sendmailriskprofiling.php on line 5
+[17-Dec-2023 02:58:08 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/vdpl.digital/public_html/lumiq/v9/sendmailcontact.php on line 5

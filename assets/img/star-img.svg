@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.5" height="85.8" viewBox="0 0 100.5 85.8">
+  <g id="Group_3661" data-name="Group 3661" transform="translate(-679 -107)">
+    <g id="Group_3659" data-name="Group 3659" transform="translate(679 124.278)">
+      <path id="Icon_ionic-ios-add" data-name="Icon ionic-ios-add" d="M73.221,38.96H47.492V13.231a4.266,4.266,0,0,0-8.532,0V38.96H13.231a4.266,4.266,0,0,0,0,8.532H38.96V73.221a4.266,4.266,0,0,0,8.532,0V47.492H73.221a4.266,4.266,0,0,0,0-8.532Z" transform="translate(-8.965 -8.965)" fill="#231932"/>
+      <rect id="Rectangle_2276" data-name="Rectangle 2276" width="21.906" height="21.906" transform="translate(34.261 18.771) rotate(45)" fill="#231932"/>
+    </g>
+    <g id="Group_3660" data-name="Group 3660" transform="translate(746.545 107)">
+      <path id="Icon_ionic-ios-add-2" data-name="Icon ionic-ios-add" d="M39.868,23.391H27.494V11.017a2.052,2.052,0,1,0-4.1,0V23.391H11.017a2.052,2.052,0,0,0,0,4.1H23.391V39.868a2.052,2.052,0,0,0,4.1,0V27.494H39.868a2.052,2.052,0,0,0,0-4.1Z" transform="translate(-8.965 -8.965)" fill="#231932"/>
+      <rect id="Rectangle_2276-2" data-name="Rectangle 2276" width="10.536" height="10.536" transform="translate(16.478 9.028) rotate(45)" fill="#231932"/>
+    </g>
+  </g>
+</svg>
