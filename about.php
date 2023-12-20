@@ -69,7 +69,7 @@
                     <div class="fs-4 fw-bold">Nitin Phadke</div>
                     <p class="mb-0">Chairman & <br>Managing Director,<br>
 Lumiq Wealth </p>
-                    </a> <a href="" class="text-linkedin"><i class="fa-brands fa-linkedin fa-2x"></i></a> </div>
+                    </a> <a href="https://www.linkedin.com/in/nitinsg/" class="text-linkedin" target="_blank"><i class="fa-brands fa-linkedin fa-2x"></i></a> </div>
                 </div>
               </div>
             </div>
@@ -80,7 +80,7 @@ Lumiq Wealth </p>
                     <div class="fs-4 fw-bold lh-1 mb-2"> Veeraraghavan Viswanathan </div>
                     <p class="mb-0">Chief Executive Officer,<br>
 Lumiq Wealth </p>
-                    </a> <a href="" class="text-linkedin"><i class="fa-brands fa-linkedin fa-2x"></i></a> </div>
+                    </a> <a href="https://www.linkedin.com/in/veeraraghavan-viswanathan/" class="text-linkedin" target="_blank"><i class="fa-brands fa-linkedin fa-2x"></i></a> </div>
                 </div>
               </div>
             </div>
@@ -132,7 +132,7 @@ Lumiq Singapore</p>
                       <div class="fs-4 fw-bold lh-1 mb-2">James Jones</div>
                       <p class="mb-0"> Senior Advisor </p>
                     </div>
-                    <a href="https://www.linkedin.com/in/jim-jones-cfa-3852334/" target="_blank" class="text-linkedin"><i
+                    <a href="https://www.linkedin.com/in/jim-jones-cfa-cka-3852334/" target="_blank" class="text-linkedin"><i
                                                     class="fa-brands fa-linkedin fa-2x"></i></a> </div>
                 </div>
               </div>
