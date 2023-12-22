@@ -6,7 +6,7 @@
 <title>Lumiq - INVESTMENT FRAMEWORK</title>
 <meta name="description" content="" />
 <?php include("includes/header.php") ?>
-<div id="smooth-wrapper">
+<div>
   <div id="smooth-content"> 
     <!-- Add your site or application content here -->
     <main> 

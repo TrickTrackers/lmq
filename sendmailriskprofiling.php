@@ -26,15 +26,17 @@ $overall_investments = $_POST['overall_investments'];
 $Investment_Approach = $_POST['Investment_Approach'];
 $fullname = $_POST['name'];
 $panno = $_POST['pan'];	
-$annual_income = $_POST['evperience_investing'];
+$annual_income = $_POST['annual_income'];
 $evperience_investing = $_POST['evperience_investing'];		
 $tolerate_portfolio = $_POST['tolerate_portfolio'];	
 $what_you_do = $_POST['what_you_do'];
+$email_id = $_POST['email_id'];
+$mobile_no = $_POST['mobile_no'];
 // Email content
 $body = "Age?: $age\nWho depends on you financially??: $financially\nWhat kind of financial investments do you currently own?: $currently_own\nHow much experience do you have with investing?: $evperience_investing\n
 What is your primary goal for this investment portfolio?: $portfolio\nWhat is your investment horizon?: $investment_horizon\n
 What % is this investment out of your overall investments?: $overall_investments\nChoose Your Investment Approach: $Investment_Approach\nHow much of a temporary decline in portfolio value can you tolerate?: $tolerate_portfolio\nIf you experience a 10% loss on your invested value one month after investment, what would you do?: $what_you_do\n
-Full Name: $fullname\nPAN Number: $panno\nAnnual Income (after tax): $annual_income";
+Full Name: $fullname\nPAN Number: $panno\nAnnual Income (after tax): $annual_income\nEmail: $email_id\nMobile: $mobile_no";
 
 try {
     //Recipients
